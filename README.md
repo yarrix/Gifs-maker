@@ -1,2 +1,2 @@
 # Gifs-maker
-coolbrnd.com create gifs animated gif easily
+<p><a href="coolbrnd.com">coolbrnd.com</a> create gifs animated gif easily</p>
